@@ -192,12 +192,12 @@ progress::-moz-progress-value {
     margin-top:20px;
     margin-bottom: 10px;
     background-image:url('https://avatars3.githubusercontent.com/u/13992719?v=4&s=460');
-    background-size: 120%;
+    background-size: 99%;
     background-position:center;
     border-radius:50%;
     border:5px solid #607d8b;
-    width:160px;
-    height:160px;
+    width:180px;
+    height:180px;
 }
 
 
